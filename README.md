@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Page Title Goes Here</title>
+        <title>A1 Git Labyrinth</title>
     </head>
   <body>
 
